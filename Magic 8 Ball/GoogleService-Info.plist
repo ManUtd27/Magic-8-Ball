@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>764587791153-t5fjid9efrrpo6332coqh0rj9o8afloo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.764587791153-t5fjid9efrrpo6332coqh0rj9o8afloo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5HhlK9VOWFJNDR2ONyigZA8BT9gaLGok</string>
+	<key>GCM_SENDER_ID</key>
+	<string>764587791153</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.williams-Shawn-Magic-8-Ball</string>
+	<key>PROJECT_ID</key>
+	<string>magic-8-ball-6286a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>magic-8-ball-6286a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:764587791153:ios:2c288487fe11797a139610</string>
+	<key>DATABASE_URL</key>
+	<string>https://magic-8-ball-6286a.firebaseio.com</string>
+</dict>
+</plist>
